@@ -30,4 +30,4 @@ This project analyzes unemployment trends in India using real-world data to unco
 - Add regional comparisons
 
 ## Author
-Abderrahmane
+Abderrahmane Mazygh
